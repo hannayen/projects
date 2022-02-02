@@ -17,4 +17,4 @@ Group project that uses Jupyter Notebook (Python) to analyze MLB data with the g
 * Can we predict how much a player will make the following season based on their previous batting history?
 * Can we determine which current players are the most overpaid for their batting production and which players are the most underpaid?
 
-Phase II contains the initial data cleaning of the baseball and salary datasets so that there is one final dataframe that can be referenced. In addition, initial exploratory data analysis is performed (observing potential relationships using summary statistics, scatterplots, and a initial linear regression). Phase III contains the data analysis plan of action. The process and results of the data analysis will be uploaded in the near future.
+The appendix contains the initial data cleaning of the baseball and salary datasets so that there is one final dataframe that can be referenced. Phase V contains the initial exploratory data analysis (observing potential relationships using summary statistics, scatterplots), the data analysis plan of action, and the results and conclusions of the data analysis (linear regression, logisitic regression).
