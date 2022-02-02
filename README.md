@@ -7,7 +7,7 @@ Group project that used Jupyter Notebook (Python) and Tableau to analyze global 
 * How quickly are different vaccines (ex. Moderna, Pfizer, etc.) being used? Is there a relationship between the type of vaccine used in a country and the location/characteristics of the country?
 * For which contact rates and recovery rates is vaccination the most effective or critical?
 
-Initial data visualizations such as correlation heatmaps, line graphs, bar graphs, qq-plots, autocorrelation plots, and scatterplots were created. The data analysis methods performed were linear regression, logisitic regression, and simulation with SIR modeling.
+Initial data visualizations such as correlation heatmaps, line graphs, bar graphs, qq-plots, autocorrelation plots, and scatterplots were created. The data analysis methods performed were linear regression, logistic regression, and simulation with SIR modeling.
 
 ## INFO 2950 Project - MLB Salaries
 Group project that uses Jupyter Notebook (Python) to analyze MLB data with the goal of answering the following questions:
