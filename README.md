@@ -1,5 +1,8 @@
 # Data Science Projects
 
+## ORIE 5741 Project - Predicting Loan Defaults
+Group project that used Python to attempt to predict loan defaults. Work includes EDA, data pre-processing (dealing with class imbalance, feature engineering, etc.), and modeling (logistic regression, extreme gradient boosted decision tree, neural network).
+
 ## ORIE 3120 Paper - COVID-19 Vaccinations
 Group project that used Jupyter Notebook (Python) and Tableau to analyze global COVID-19 data with the goal of answering the following three questions:
 
